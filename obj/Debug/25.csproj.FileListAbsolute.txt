@@ -1,0 +1,7 @@
+C:\Users\serbu\source\repos\25\25\obj\Debug\25.csprojAssemblyReference.cache
+C:\Users\serbu\source\repos\25\25\obj\Debug\25.csproj.CoreCompileInputs.cache
+C:\Users\serbu\source\repos\25\25\bin\Debug\25.exe.config
+C:\Users\serbu\source\repos\25\25\bin\Debug\25.exe
+C:\Users\serbu\source\repos\25\25\bin\Debug\25.pdb
+C:\Users\serbu\source\repos\25\25\obj\Debug\25.exe
+C:\Users\serbu\source\repos\25\25\obj\Debug\25.pdb
